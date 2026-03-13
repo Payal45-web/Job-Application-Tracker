@@ -6,7 +6,7 @@ import Dashboard from './pages/Dashboard';
 import AllJobs from './pages/AllJobs';
 import AddJob from './pages/AddJob';
 import useJobs from './hooks/UseJob';  // ✅ Import the custom hook
-import useTheme from './hooks/useTheme';
+import useTheme from './hooks/UseTheme';
 import './App.css';
 
 function App() {
